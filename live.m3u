@@ -111,3 +111,15 @@ webview://https://yangshipin.cn/tv/home?pid=600002505
 webview://https://yangshipin.cn/tv/home?pid=600002498
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
 webview://https://yangshipin.cn/tv/home?pid=600190401
+#EXTINF:-1 tvg-name="新闻资讯" group-title="陕西",陕西新闻资讯
+webview://http://live.snrtv.com/1
+#EXTINF:-1 tvg-name="都市青春" group-title="陕西",陕西都市青春
+webview://http://live.snrtv.com/2
+#EXTINF:-1 tvg-name="银龄频道" group-title="陕西",陕西银龄频道
+webview://http://live.snrtv.com/3
+#EXTINF:-1 tvg-name="秦腔频道" group-title="陕西",陕西秦腔频道
+webview://http://live.snrtv.com/5
+#EXTINF:-1 tvg-name="体育休闲" group-title="陕西",陕西体育休闲
+webview://http://live.snrtv.com/7
+#EXTINF:-1 tvg-name="农林卫视" group-title="陕西",陕西农林卫视
+webview://http://live.snrtv.com/nl
