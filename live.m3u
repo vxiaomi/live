@@ -112,14 +112,18 @@ webview://https://yangshipin.cn/tv/home?pid=600002498
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
 webview://https://yangshipin.cn/tv/home?pid=600190401
 #EXTINF:-1 tvg-name="陕西新闻资讯" group-title="陕西",新闻资讯
-webview://http://live.snrtv.com/1
+http://gxlive.snrtv.com/sx1-SD.m3u8
 #EXTINF:-1 tvg-name="陕西都市青春" group-title="陕西",都市青春
-webview://http://live.snrtv.com/2
+http://gxlive.snrtv.com/sx2-SD.m3u8
 #EXTINF:-1 tvg-name="陕西银龄" group-title="陕西",银龄频道
-webview://http://live.snrtv.com/3
+http://gxlive.snrtv.com/sx3-SD.m3u8
 #EXTINF:-1 tvg-name="陕西秦腔" group-title="陕西",秦腔频道
-webview://http://live.snrtv.com/5
+http://gxlive.snrtv.com/sx5-SD.m3u8
 #EXTINF:-1 tvg-name="陕西体育休闲" group-title="陕西",体育休闲
-webview://http://live.snrtv.com/7
+http://gxlive.snrtv.com/sx7-SD.m3u8
+#EXTINF:-1 tvg-name="陕西西部电影" group-title="陕西",西部电影
+http://gxlive.snrtv.com/sx8-SD.m3u8
 #EXTINF:-1 tvg-name="陕西农林卫视" group-title="陕西",农林卫视
-webview://http://live.snrtv.com/nl
+http://gxlive.snrtv.com/nlws-SD.m3u8
+#EXTINF:-1 tvg-name="洛川融媒" group-title="陕西",洛川融媒
+http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225908/index.m3u8
