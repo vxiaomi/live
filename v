@@ -130,8 +130,7 @@
 "lives": [
 {"name":"移动","url":"http://z.ico.loc.cc/sn.txt"},
 {"name":"联通","url":"http://z.ico.loc.cc/un.txt"},
-{"name": "电信","type": 0,"url": "http://127.0.0.1:9978/proxy?do=migu&type=m3u8","playerType": 2,"timeout": 10},
-{"name":"影视","url":"http://z.ico.loc.cc/hy.txt"}
+{"name": "电信","type": 0,"url": "http://127.0.0.1:9978/proxy?do=migu&type=m3u8","playerType": 2,"timeout": 10}
 ],
 "ijk": [
 {"group": "软解码","options": [{"category": 4,"name": "opensles","value": "0"},{"category": 4,"name": "overlay-format","value": "842225234"},{"category": 4,"name": "framedrop","value": "1"},{"category": 4,"name": "soundtouch","value": "1"},{"category": 4,"name": "start-on-prepared","value": "1"},{"category": 1,"name": "http-detect-range-support","value": "0"},{"category": 1,"name": "fflags","value": "fastseek"},{"category": 2,"name": "skip_loop_filter","value": "48"},{"category": 4,"name": "reconnect","value": "1"},{"category": 4,"name": "enable-accurate-seek","value": "0"},{"category": 4,"name": "mediacodec","value": "0"},{"category": 4,"name": "mediacodec-auto-rotate","value": "0"},{"category": 4,"name": "mediacodec-handle-resolution-change","value": "0"},{"category": 4,"name": "mediacodec-hevc","value": "0"},{"category": 1,"name": "dns_cache_timeout","value": "600000000"}]
