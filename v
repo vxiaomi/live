@@ -23,10 +23,6 @@
 },
 {"key": "csp_Jpys","name": "金牌┃影视","type": 3,"api": "csp_Jpys"
 },
-{"key": "csp_Wwys","name": "农民┃影视","type": 3,"api": "csp_Wwys","ext": "https://vip.wwgz.cn:5200"
-},
-{"key": "荐片","name": "荐片┃影视","api": "csp_Jianpian","type": 3,"playerType": "2","ext": "https://ev2089.zxbwv.com"
-},
 {"key": "csp_SaoHuo","name": "火火┃影视","type": 3,"api": "csp_SaoHuo","playerType": 2,"ext": "https://shdy5.us"
 },
 {"key": "csp_Gz360","name": "瓜子┃影视","type": 3,"api": "csp_Gz360","playerType": 2
