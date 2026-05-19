@@ -1,4 +1,4 @@
-{"spider": "https://ykj-eos-dg5-01.eos-dongguan-6.cmecloud.cn/1086864d3fb74db58c70613648ef0576086?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27v.jar&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260519T115451Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Credential=9T1UKBIX6OJSR5XN2F2T%2F20260519%2Fdefault%2Fs3%2Faws4_request&t=2&u=1040012775810652729&ot=personal&oi=1040012775810652729&f=FhM92yJnAJJi3_g4ZtsJI45Ft3dnXwDGY&ext=eyJ1dCI6MX0%3D&X-Amz-Signature=04708dbd9e6b5a819323bbba0c527cc4c4da9159764168352812c3ce9a54e861",
+{"spider": "https://d.kstore.dev/download/11050/v.jar",
 "wallpaper": "https://sgmao.serv00.net/image/",
 "logo": "./logo.png",
 "sites": [
