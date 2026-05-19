@@ -7,12 +7,6 @@
 {"key": "热播影视","name": "热播｜APP","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {
 "url": "http://v.rbotv.cn"}
 },
-{"key": "Wexduanjuvop","name": "短剧","type": 3,"api": "csp_WexduanjuvopGuard","jar": "./jar/wx.jar",searchable": 1,"changeable": 1
-},
-{"key": "Wexduanjuvmp","name": "短剧","type": 3,"api": "csp_WexduanjuvmpGuard","jar":"./jar/wx.jar","searchable": 1,"changeable": 1
-},
-{"key": "Wexduanju001","name": "短剧","type": 3,"api": "csp_Wexduanju001Guard","jar":"./jar/wx.jar","searchable": 1,"changeable": 1
-},
 {"key": "瓜子影视","name": "瓜子｜影视","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1
 },
 {"key": "快手直播","name": "快手｜直播","type": 3,"api": "csp_KsLive","searchable": 0,"jar": "./jar/spider.jar","quickSearch": 0,"filterable": 1,"style": {"type": "rect","ratio": 1.597}
