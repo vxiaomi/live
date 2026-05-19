@@ -13,11 +13,7 @@
 },
 {"key": "虎牙","name": "虎牙｜直播","type": 3,"api": "./drpy_libs/drpy22.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./js/huyazhibo.js"},
 {"key": "斗鱼js","name": "斗鱼｜直播","type": 3,"api": "./drpy_libs/drpy22.min.js","ext": "./js/斗鱼直播.js","style": {"type": "rect","ratio": 1.755},"playerType": "2","searchable": 0,"quickSearch": 0,"changeable": 0},
-{"key": "农民采集","name": "农民｜APP","type": 3,"api": "csp_HBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/农民采集.json"
-},
 {"key": "农牧","name": "农牧｜APP","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQHiker/农牧影视.json"
-},
-{"key": "乐看","name": "乐看｜APP","type": 3,"api": "csp_HBPQ","ext": "./XBPQ/乐看影视.json"
 },
 {"key": "流光","name": "流光｜APP","type": 3,"api": "csp_XBPQ","ext": "./XBPQ/流光4k.json"
 },
@@ -31,13 +27,10 @@
 },
 {"key": "雪糕影视","name": "雪糕｜影视","type": 3,"api": "csp_HBPQ","ext": "./XBPQ/雪糕影视.json"
 },
-{"key": "泥巴影视","name": "泥巴｜影视","type": 3,"api": "csp_HBPQ","ext": "./XBPQ/泥巴影视.json"
-},
 {"key": "随客影视","name": "随客｜影视","type": 3,"api": "csp_HBPQ","ext": "./XBPQ/随客影视.json"
 },
 {"key": "秀儿影视","name": "秀儿｜影视","type": 3,"api": "csp_HBPQ","ext": "./XBPQ/秀儿影视.json"
 },
-{"key": "蚂蚁影院","name": "蚂蚁｜影视","type": 3,"api": "csp_HBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/蚂蚁影视.json"},
 {"key": "短剧影视","name": "短剧｜影视","type": 3,"api": "csp_XBPQ","ext": "./XBPQ/短剧影视.json"
 },
 {"key": "星芽短剧","name": "星芽｜短剧","type": 3,"api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/星芽短剧.js"
