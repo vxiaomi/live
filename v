@@ -1,4 +1,4 @@
-{"spider": "http://38.147.171.152/v.jpg",
+{"spider": "https://d.kstore.dev/download/11050/v.jar",
 "wallpaper": "https://sgmao.serv00.net/image/",
 "logo": "./logo.png",
 "sites": [
