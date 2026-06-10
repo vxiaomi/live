@@ -9,6 +9,7 @@
 {"key": "快手直播","name": "快手｜直播","type": 3,"api": "csp_KsLive","searchable": 0,"jar": "./jar/spider.jar","quickSearch": 0,"filterable": 1,"style": {"type": "rect","ratio": 1.597}},
 {"key": "虎牙","name": "虎牙｜直播","type": 3,"api": "./drpy_libs/drpy22.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./js/虎牙.js"},
 {"key": "斗鱼js","name": "斗鱼｜直播","type": 3,"api": "./drpy_libs/drpy22.min.js","ext": "./js/斗鱼.js","style": {"type": "rect","ratio": 1.755},"playerType": "2","searchable": 0,"quickSearch": 0,"changeable": 0},
+{"key": "瓜子影视","name": "瓜子｜影视","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "流光","name": "流光｜APP","type": 3,"api": "csp_XBPQ","ext": "./XBPQ/流光4k.json"},
 {"key": "哔哩视频","name": "哔哩｜视频","type": 3,"api": "csp_BiliYS","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.433},"ext": {"json": "./json/哔哩视频.json","cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"}},
 {"key": "七七影视","name": "七七｜影视","type": 3,"api": "csp_HBPQ","ext": "./XBPQ/七七影视.json"},
