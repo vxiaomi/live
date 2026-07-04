@@ -1,4 +1,4 @@
-{"spider": "./x.jar",
+{"spider": "./jar/x.jar",
 "logo": "./logo.png",
  "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
 "sites": [
