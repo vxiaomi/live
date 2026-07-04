@@ -2,7 +2,6 @@
 "logo": "./logo.png",
  "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
 "sites": [
-{"key": "豆瓣","name": "爱无｜止境","type": 3,"api": "csp_Douban","searchable": 0},
 {"key": "天天","name": "爱无｜止境","type": 3,"api": "csp_TTian","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7lj763gg0939791h1l3888jig44gi291li"
 },
 {"key": "金牌","name": "金牌｜影视","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
@@ -35,6 +34,92 @@
 {"name": "豪堪｜短剧","key": "HHkk","type": 3,"api": "csp_HHkkAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "./jar/dj.jar"
 },
 {"name": "盒马｜短剧","key": "Hema","type": 3,"api": "csp_HemaAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "./jar/dj.jar"
+},
+{"name": "拜拜｜短剧","key": "Bddj","type": 3,"api": "csp_BddjAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "./jar/dj.jar"
+},
+{"name": "围观｜短剧","key": "Wgdj","type": 3,"api": "csp_WgdjAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "./jar/dj.jar"
+},
+{"name": "喵喵｜短剧","key": "Qmdj","type": 3,"api": "csp_QmdjAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "./jar/dj.jar"
+},
+{"name": "星星｜短剧","key": "Xydj","type": 3,"api": "csp_XydjAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "./jar/dj.jar"
+},
+{"name": "瓜子｜体育","key": "GuaziLive","type": 3,"api": "csp_GuaziLiveAmns","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://api.bmjb2mk7.com,https://api.46d5umpk.com,https://api.tkfupxqu.com,https://api.5h5hbfhh.com,https://api.qchyzkww.com,https://api.cjxxpgkq.com,https://api.zejzeu7p.com","jar": "./jar/dj.jar"
+},
+{"name": "88｜体育","key": "BbkqLive","type": 3,"api": "csp_BbkqLiveAmns","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw","jar": "./jar/dj.jar"
+}
+],
+"parses": [
+{"name": "Web聚合","type": 3,"url": "Web"
+},
+{"name": "Json聚合","type": 3,"url": "Demo"
+},
+{"name": "云","type": 0,"url": "https://yparse.ik9.cc/index.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}
+},
+{"name": "虾米","type": 0,"url": "https://jx.hls.one/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}
+},
+{"name": "m3u8TV","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}
+},
+{"name": "77","type": 0,"url": "https://jx.77flv.cc/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}
+},
+{"name": "咸鱼","type": 0,"url": "https://jx.xymp4.cc/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}
+}],
+"proxy": [
+"raw.githubusercontent.com",
+"googlevideo.com",
+"cdn.v82u1l.com",
+"cdn.iz8qkg.com",
+"cdn.kin6c1.com",
+"c.biggggg.com",
+"c.olddddd.com",
+"haiwaikan.com",
+"www.histar.tv",
+"youtube.com",
+"uhibo.com",
+".*boku.*",
+".*nivod.*",
+".*ulivetv.*",
+"188766.xyz",
+"4gtv.tv",
+"iill.top"
+],
+"rules": [
+{"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]
+},
+{"name": "抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]
+},
+{"name": "农民嗅探","hosts": ["toutiaovod.com"],"regex": ["video/tos/cn"]
+},
+{"name": "七新嗅探","hosts": ["api.52wyb.com"],"regex": ["m3u8?pt=m3u8"]
+},
+{"name": "夜市","hosts": ["yeslivetv.com"],"script": ["document.getElementsByClassName('vjs-big-play-button')[0].click()"]
+},
+{"name": "磁力广告","hosts": ["magnet"],"regex": ["更多","请访问","example","社 区","x u u","直 播","更 新","社 区","有趣","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]
+},
+{"name": "饭团点击","hosts": ["dadagui","freeok","dadagui"],"script": ["document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();"]
+},
+{"name": "毛驴点击","hosts": ["www.maolvys.com"],"script": ["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]
+},
+{"name": "cdn.ryplay","hosts": ["cdn.ryplay"],"regex": ["5.480000","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]
+}
+],
+"doh": [
+{"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4","8.8.8.8"]
+},
+{"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": ["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]
+},
+{"name": "AdGuard","url": "https://dns.adguard.com/dns-query","ips": ["94.140.14.140","94.140.14.141"]
+},
+{"name": "DNSWatch","url": "https://resolver2.dns.watch/dns-query","ips": ["84.200.69.80","84.200.70.40"]
+},
+{"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]
+}
+],
+"ijk": [
+{"group": "软解码","options": [{"category": 4,"name": "opensles","value": "0"},{"category": 4,"name": "overlay-format","value": "842225234"},{"category": 4,"name": "framedrop","value": "1"},{"category": 4,"name": "soundtouch","value": "1"},{"category": 4,"name": "start-on-prepared","value": "1"},{"category": 1,"name": "http-detect-range-support","value": "0"},{"category": 1,"name": "fflags","value": "fastseek"},{"category": 2,"name": "skip_loop_filter","value": "48"},{"category": 4,"name": "reconnect","value": "1"},{"category": 4,"name": "enable-accurate-seek","value": "0"},{"category": 4,"name": "mediacodec","value": "0"},{"category": 4,"name": "mediacodec-auto-rotate","value": "0"},{"category": 4,"name": "mediacodec-handle-resolution-change","value": "0"},{"category": 4,"name": "mediacodec-hevc","value": "0"},{"category": 1,"name": "dns_cache_timeout","value": "600000000"}]
+},
+{"group": "硬解码","options": [{"category": 4,"name": "opensles","value": "0"},{"category": 4,"name": "overlay-format","value": "842225234"},{"category": 4,"name": "framedrop","value": "1"},{"category": 4,"name": "soundtouch","value": "1"},{"category": 4,"name": "start-on-prepared","value": "1"},{"category": 1,"name": "http-detect-range-support","value": "0"},{"category": 1,"name": "fflags","value": "fastseek"},{"category": 2,"name": "skip_loop_filter","value": "48"},{"category": 4,"name": "reconnect","value": "1"},{"category": 4,"name": "enable-accurate-seek","value": "0"},{"category": 4,"name": "mediacodec","value": "1"},{"category": 4,"name": "mediacodec-auto-rotate","value": "1"},{"category": 4,"name": "mediacodec-handle-resolution-change","value": "1"},{"category": 4,"name": "mediacodec-hevc","value": "1"},{"category": 1,"name": "dns_cache_timeout","value": "600000000"}]
+}],
+ "ads": ["mozai.4gtv.tv"]}{"name": "盒马｜短剧","key": "Hema","type": 3,"api": "csp_HemaAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "./jar/dj.jar"
 },
 {"name": "拜拜｜短剧","key": "Bddj","type": 3,"api": "csp_BddjAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "./jar/dj.jar"
 },
