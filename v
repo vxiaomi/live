@@ -1,4 +1,4 @@
-{"spider": "./jar/x.jar",
+{"spider": "https://gh-proxy.com/raw.githubusercontent.com/vxiaomi/live/refs/heads/main/jar/x.jar",
 "logo": "./logo.png",
 "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
 "sites": [
@@ -15,7 +15,7 @@
 },
 {"key": "王子","name": "王子｜影视","type": 3,"api": "csp_Xdai","ext": "7lj763gg402i7942503g9g9jk909jji3g0li9j088291253h4k141gggkk41435h43924kg6ik48i0856j01k882glkh4kllg538704jl5k4j1gl27j321g03lll"
 },
-{"name": "厂长｜影视","key": "Czzy","type": 3,"api": "csp_CzzyAmns","searchable": 1,"filterable": 1,"quickSearch": 1,"ext": {"sites": "https://www.4kcz.com,https://www.cz4k.com,https://czzy.top","filters": ""},"jar": "./jar/dj.jar"
+{"name": "厂长｜影视","key": "Czzy","type": 3,"api": "csp_CzzyAmns","searchable": 1,"filterable": 1,"quickSearch": 1,"ext": {"sites": "https://www.4kcz.com,https://www.cz4k.com,https://czzy.top","filters": ""},"jar": "https://gh-proxy.com/raw.githubusercontent.com/vxiaomi/live/refs/heads/main/jar/dj.jar"
 },
 {"key": "农民","name": "农民｜影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./kwai/农民影视.js"
 },
@@ -31,21 +31,21 @@
 },
 {"key": "鸭梨","name": "鸭梨｜动漫","type": 3,"api": "csp_Qiji","ext": "7lj763gg402i7942452h85j1h153i28hl3g4i35hj98772225j4i54khl0195l03559i4kh8964kihji6348k580g5lk40h2g630710jh0kgj7g47kjj68gh6ilk4l18glg192g7g5237g64ii126k"
 },
-{"name": "豪堪｜短剧","key": "HHkk","type": 3,"api": "csp_HHkkAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "./jar/dj.jar"
+{"name": "豪堪｜短剧","key": "HHkk","type": 3,"api": "csp_HHkkAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "https://gh-proxy.com/raw.githubusercontent.com/vxiaomi/live/refs/heads/main/jar/dj.jar"
 },
-{"name": "盒马｜短剧","key": "Hema","type": 3,"api": "csp_HemaAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "./jar/dj.jar"
+{"name": "盒马｜短剧","key": "Hema","type": 3,"api": "csp_HemaAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "https://gh-proxy.com/raw.githubusercontent.com/vxiaomi/live/refs/heads/main/jar/dj.jar"
 },
-{"name": "拜拜｜短剧","key": "Bddj","type": 3,"api": "csp_BddjAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "./jar/dj.jar"
+{"name": "拜拜｜短剧","key": "Bddj","type": 3,"api": "csp_BddjAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "https://gh-proxy.com/raw.githubusercontent.com/vxiaomi/live/refs/heads/main/jar/dj.jar"
 },
-{"name": "围观｜短剧","key": "Wgdj","type": 3,"api": "csp_WgdjAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "./jar/dj.jar"
+{"name": "围观｜短剧","key": "Wgdj","type": 3,"api": "csp_WgdjAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "https://gh-proxy.com/raw.githubusercontent.com/vxiaomi/live/refs/heads/main/jar/dj.jar"
 },
-{"name": "喵喵｜短剧","key": "Qmdj","type": 3,"api": "csp_QmdjAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "./jar/dj.jar"
+{"name": "喵喵｜短剧","key": "Qmdj","type": 3,"api": "csp_QmdjAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "https://gh-proxy.com/raw.githubusercontent.com/vxiaomi/live/refs/heads/main/jar/dj.jar"
 },
-{"name": "星星｜短剧","key": "Xydj","type": 3,"api": "csp_XydjAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "./jar/dj.jar"
+{"name": "星星｜短剧","key": "Xydj","type": 3,"api": "csp_XydjAmns","playerType": 2,"searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"genre": "shortdrama","jar": "https://gh-proxy.com/raw.githubusercontent.com/vxiaomi/live/refs/heads/main/jar/dj.jar"
 },
-{"name": "瓜子｜体育","key": "GuaziLive","type": 3,"api": "csp_GuaziLiveAmns","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://api.bmjb2mk7.com,https://api.46d5umpk.com,https://api.tkfupxqu.com,https://api.5h5hbfhh.com,https://api.qchyzkww.com,https://api.cjxxpgkq.com,https://api.zejzeu7p.com","jar": "./jar/dj.jar"
+{"name": "瓜子｜体育","key": "GuaziLive","type": 3,"api": "csp_GuaziLiveAmns","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://api.bmjb2mk7.com,https://api.46d5umpk.com,https://api.tkfupxqu.com,https://api.5h5hbfhh.com,https://api.qchyzkww.com,https://api.cjxxpgkq.com,https://api.zejzeu7p.com","jar": "https://gh-proxy.com/raw.githubusercontent.com/vxiaomi/live/refs/heads/main/jar/dj.jar"
 },
-{"name": "88｜体育","key": "BbkqLive","type": 3,"api": "csp_BbkqLiveAmns","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw","jar": "./jar/dj.jar"
+{"name": "88｜体育","key": "BbkqLive","type": 3,"api": "csp_BbkqLiveAmns","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw","jar": "https://gh-proxy.com/raw.githubusercontent.com/vxiaomi/live/refs/heads/main/jar/dj.jar"
 }
 ],
 "parses": [
